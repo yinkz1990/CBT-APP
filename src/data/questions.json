@@ -1,0 +1,176 @@
+[
+  {
+    "question": "What temperature does water boil at?",
+    "answers": [
+      "50 degrees Celcius",
+      "25 degrees Celcius",
+      "100 degrees Celcius",
+      "150 degrees Celcius"
+    ],
+    "correct": "100 degrees Celcius"
+  },
+
+  {
+    "question": "When an hausa man marries a Yoruba woman, we call it ______________marriage",
+    "answers": ["Intra-ethnic", "Ethnic", "Inter-ethnic", "Wedding"],
+    "correct": "Inter-ethnic"
+  },
+
+  {
+    "question": "_____________ colonized Nigeria",
+    "answers": ["Italy", "Ghana", "Britian", "America"],
+    "correct": "Britian"
+  },
+
+  {
+    "question": "Which is the only mammal that can’t jump?",
+    "answers": ["Dog", "Elephant", "Goat", "Lion"],
+    "correct": "Elephant"
+  },
+
+  {
+    "question": "Nigeria got her independence on __________________",
+    "answers": [
+      "October  1st 1960",
+      "October 1st 1860",
+      "October 1st 1760",
+      "October 1st 1660"
+    ],
+    "correct": "October  1st 1960"
+  },
+
+  {
+    "question": "What colour is a panda?",
+    "answers": [
+      "Green and Yellow",
+      "Blue and Red",
+      "Green and White",
+      "Black and White"
+    ],
+    "correct": "Black and White"
+  },
+
+  {
+    "question": "Where is the smallest bone in the human body?",
+    "answers": ["The Chest", "The Ear", "The Legs", "The Hands"],
+    "correct": "The Ear"
+  },
+
+  {
+    "question": "What does the roman numeral C represent?",
+    "answers": ["100", "10", "10,000", "1,000,000"],
+    "correct": "100"
+  },
+
+  {
+    "question": "Christianity introduced ______________ ",
+    "answers": ["Monogamy", "Polygamy", "Large", "Extended"],
+    "correct": "Monogamy"
+  },
+
+  {
+    "question": "Inter-ethnic marriage is between couples from different __________ group.",
+    "answers": ["Religion", "Family", "School", "Ethnic"],
+    "correct": "Ethnic"
+  },
+
+  {
+    "question": "What’s the most important book in the Moslem religion?",
+    "answers": [
+      "The Koran",
+      "The Dictionary",
+      "The Bible",
+      "The Chemistry text Book"
+    ],
+    "correct": "The Koran"
+  },
+
+  {
+    "question": "What’s the capital of Ethiopia?",
+    "answers": ["Cape Town", "San Francisco", "Addis Ababa", "Syndey"],
+    "correct": "Addis Ababa"
+  },
+
+  {
+    "question": "How many squares are there on a chess board?",
+    "answers": ["128", "64", "32", "256"],
+    "correct": "64"
+  },
+
+  {
+    "question": "Marriage takes place in the following place except _______",
+    "answers": ["Hospital", "Church", "Mosque", "Traditional"],
+    "correct": "Hospital"
+  },
+
+  {
+    "question": "What are the first three words of the bible?",
+    "answers": [
+      "be with everyone",
+      "Again Jesus asked",
+      "In the beginning",
+      "At that time"
+    ],
+    "correct": "In the beginning"
+  },
+
+  {
+    "question": "The award of honour is given by the  ___________of a country.",
+    "answers": ["Governor", "Minister", "President", "Senator"],
+    "correct": "President"
+  },
+
+  {
+    "question": "Tolerance is an act of _______________.",
+    "answers": ["Disagreement", "Fighthing", "Lying", "Endurance"],
+    "correct": "Endurance"
+  },
+  {
+    "question": "___________security management is the means by which a person ensure adequate security of himself",
+    "answers": ["Individual", "Social", "Relationship", "Personal"],
+    "correct": "Personal"
+  },
+
+  {
+    "question": "Any action that is morally wrong is known as_______________",
+    "answers": ["Punishment", "Crime", "Penalty", "Suicide"],
+    "correct": "Crime"
+  },
+  {
+    "question": "A pain that somebody is made to suffer because he/she committed a crime is known as ____________",
+    "answers": ["Attitude", "Punishment", "Control", "Insult"],
+    "correct": "Punishment"
+  },
+  {
+    "question": "Fake drugs includes drug that are not ____________",
+    "answers": ["Genuine", "Grinded", "Coloured", "Imported"],
+    "correct": "Genuine"
+  },
+  {
+    "question": "_______________is the act of taking or stealing somebody’s property",
+    "answers": ["Forgery", "Rape", "Theft", "Fraud"],
+    "correct": "Theft"
+  },
+
+  {
+    "question": "The highest national honour award in Nigeria is ______________",
+    "answers": ["CFR", "CON", "CFU", "GCON"],
+    "correct": "GCON"
+  },
+  {
+    "question": "Union between a man and a woman to ______ together as husband and wife is called marriage.",
+    "answers": ["Life", "Die", "Live", "Leave"],
+    "correct": "Live"
+  },
+
+  {
+    "question": "An award given to somebody  who has contributed to national development is known as__________",
+    "answers": [
+      "National Award",
+      "Country Award",
+      "State Award",
+      "Presidental Award"
+    ],
+    "correct": "National Award"
+  }
+]
